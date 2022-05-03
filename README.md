@@ -1,1 +1,1 @@
-Umm...Learning how to set up a github.io blogspot.
+Umm...I don't even know what to write.
