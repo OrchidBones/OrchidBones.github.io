@@ -1,0 +1,13 @@
+[
+null,
+{"id":1,"expanded":false,"name":"Entry","order":1,"parentId":0,"scrollX":811,"scrollY":739},
+{"id":2,"expanded":true,"name":"Minimap","order":2,"parentId":0,"scrollX":819,"scrollY":461},
+{"id":3,"expanded":false,"name":"MM Generated With Item","order":3,"parentId":2,"scrollX":2069,"scrollY":2216},
+{"id":4,"expanded":true,"name":"MM Generated Large World FoW (will bug)","order":4,"parentId":2,"scrollX":3652,"scrollY":2216},
+{"id":5,"expanded":false,"name":"MM Mapshot with Autofit","order":5,"parentId":2,"scrollX":811,"scrollY":979},
+{"id":6,"expanded":false,"name":"Event Chance","order":8,"parentId":0,"scrollX":819,"scrollY":461},
+{"id":7,"expanded":false,"name":"ItemLog","order":9,"parentId":0,"scrollX":819,"scrollY":461},
+{"id":8,"expanded":false,"name":"MM Large Map Test (bugs)","order":6,"parentId":2,"scrollX":811,"scrollY":793},
+{"id":9,"expanded":false,"name":"Dash Stamina","order":10,"parentId":0,"scrollX":811,"scrollY":979},
+{"id":10,"expanded":false,"name":"MM Small Map Test (works)","order":7,"parentId":2,"scrollX":811,"scrollY":759}
+]

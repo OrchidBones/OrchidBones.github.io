@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"list":[{"code":201,"indent":0,"parameters":[0,1,12,18,8,0]},{"code":0,"indent":0,"parameters":[]}],"name":"Return to Main Area","switchId":1,"trigger":0},
+{"id":2,"list":[{"code":250,"indent":0,"parameters":[{"name":"Blow3","volume":50,"pitch":100,"pan":0}]},{"code":0,"indent":0,"parameters":[]}],"name":"Dash Stamina Test","switchId":1,"trigger":0}
+]
