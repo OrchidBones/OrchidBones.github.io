@@ -19,3 +19,7 @@ RM素材列表
 [https://orchidbones.github.io/tools/ulds-map-note-generator/](https://orchidbones.github.io/tools/ulds-map-note-generator/)
 
 RPG Maker - ULDS插件地图注释生成器
+
+[https://orchidbones.github.io/tools/french-vocab-test/](https://orchidbones.github.io/tools/french-vocab-test/)
+
+法语词汇入门测试
